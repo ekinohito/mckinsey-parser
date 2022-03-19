@@ -1,0 +1,1 @@
+OGRN = str
